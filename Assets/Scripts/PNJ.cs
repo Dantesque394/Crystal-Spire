@@ -44,7 +44,8 @@ public class PNJ : MonoBehaviour
                 CompteurTexte = 0;
                 ZoneDeTexte.SetActive(false);
             }
-       
+
+            //GetComponent<MeshCollider>().enabled = true;
         }
     }
 }
