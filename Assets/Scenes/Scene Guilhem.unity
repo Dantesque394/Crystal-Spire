@@ -992,9 +992,58 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 179018438}
     - target: {fileID: 1274599665494891092, guid: 466c91d238d6ea74f9c64442fe5336f0, type: 3}
+      propertyPath: TextAffiche.Array.size
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1274599665494891092, guid: 466c91d238d6ea74f9c64442fe5336f0, type: 3}
       propertyPath: TextAffiche.Array.data[0]
       value: "Une participante ! C\u2019est d\xE9j\xE0 l\u2019heure de l\u2019\xE9preuve
         ? Pourquoi \xEAtes-vous la seule \xE0 vous pr\xE9senter ? "
+      objectReference: {fileID: 0}
+    - target: {fileID: 1274599665494891092, guid: 466c91d238d6ea74f9c64442fe5336f0, type: 3}
+      propertyPath: TextAffiche.Array.data[1]
+      value: ...
+      objectReference: {fileID: 0}
+    - target: {fileID: 1274599665494891092, guid: 466c91d238d6ea74f9c64442fe5336f0, type: 3}
+      propertyPath: TextAffiche.Array.data[2]
+      value: "Vous n\u2019\xEAtes pas tr\xE8s bavarde \xE0 ce que je vois. Soit,
+        si vous \xEAtes pr\xEAtes \xE0 commencer l'\xE9preuve, pr\xEAtez attention
+        !"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1274599665494891092, guid: 466c91d238d6ea74f9c64442fe5336f0, type: 3}
+      propertyPath: TextAffiche.Array.data[3]
+      value: "Il \xE9tait une fois une reine, qui d\xE9sirait avoir un enfant plus
+        que tout au monde."
+      objectReference: {fileID: 0}
+    - target: {fileID: 1274599665494891092, guid: 466c91d238d6ea74f9c64442fe5336f0, type: 3}
+      propertyPath: TextAffiche.Array.data[4]
+      value: "Un jour d'hiver alors qu'elle cousait \xE0 sa fen\xEAtre, la reine
+        se piqua le doigt avec son aiguille."
+      objectReference: {fileID: 0}
+    - target: {fileID: 1274599665494891092, guid: 466c91d238d6ea74f9c64442fe5336f0, type: 3}
+      propertyPath: TextAffiche.Array.data[5]
+      value: "Son sang tomba sur la neige, et la reine fut si \xE9mue par ce spectacle
+        qu'elle poussa un soupir et dit :"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1274599665494891092, guid: 466c91d238d6ea74f9c64442fe5336f0, type: 3}
+      propertyPath: TextAffiche.Array.data[6]
+      value: "\"Ah ! Si seulement je pouvais enfanter une fille dont les cheveux
+        seraient aussi noirs que l'\xE9b\xE8ne de cette fen\xEAtre !\""
+      objectReference: {fileID: 0}
+    - target: {fileID: 1274599665494891092, guid: 466c91d238d6ea74f9c64442fe5336f0, type: 3}
+      propertyPath: TextAffiche.Array.data[7]
+      value: '"Dont la peau serait aussi blanche que la neige, et la bouche aussi
+        rouge que le sang !"'
+      objectReference: {fileID: 0}
+    - target: {fileID: 1274599665494891092, guid: 466c91d238d6ea74f9c64442fe5336f0, type: 3}
+      propertyPath: TextAffiche.Array.data[8]
+      value: "Le souhait de la reine fut exauc\xE9, et quelques mois plus tard elle
+        accoucha d'une fille aux cheveux noirs."
+      objectReference: {fileID: 0}
+    - target: {fileID: 1274599665494891092, guid: 466c91d238d6ea74f9c64442fe5336f0, type: 3}
+      propertyPath: TextAffiche.Array.data[9]
+      value: "La peau de la petite princesse \xE9tait si blanche que l'on d\xE9cida
+        de la nommer Blanche-Neige."
       objectReference: {fileID: 0}
     - target: {fileID: 1274599665494891093, guid: 466c91d238d6ea74f9c64442fe5336f0, type: 3}
       propertyPath: m_Name
